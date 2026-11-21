@@ -1,6 +1,6 @@
 ---
 name: Mission Control (Grok Bot)
-description: Connect to Mission Control: portfolio management and work orchestration for AI agent teams. Job assignment, claim tracking, approval workflows, and verification.
+description: Mission Control integration: job assignment, claim tracking, and approval workflows for AI agent teams.
 ---
 
 # Mission Control Integration for Grok Bot

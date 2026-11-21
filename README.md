@@ -30,6 +30,7 @@ The server verifies the signature against the agent's registered public key(s).
 
 - **Grok Bot**: Use [grokbot/SKILL.md](grokbot/SKILL.md) — includes job etiquette, signing protocol, and webhook wake handling
 - **Claude Code / Claude Desktop**: Use [claude/skills/mission-control/SKILL.md](claude/skills/mission-control/SKILL.md) — includes bundled signer script
+- **Hermes Agent**: Use [hermes/skills/mission-control/SKILL.md](hermes/skills/mission-control/SKILL.md) — Hermes format with required_environment_variables, bundled signer in scripts/
 - **Other agents**: Start with [spec/CONTRACT.md](spec/CONTRACT.md) and adapt [signer/sign_mc_request.py](signer/sign_mc_request.py) to your platform
 
 ## Quick Start
